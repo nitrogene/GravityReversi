@@ -43,3 +43,6 @@
 # Build artifacts
 build/
 .cache/
+/bin
+/random_agent_results.txt
+/test_results.txt
